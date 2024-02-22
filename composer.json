@@ -1,0 +1,10 @@
+{
+
+    "autoload": {
+        "files": [
+          "config.php",
+          "function.php"
+        ]
+      }
+
+}
